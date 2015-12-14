@@ -1,0 +1,14 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "description": "Sample Testing Node JS",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Chetan Kurvatti",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
