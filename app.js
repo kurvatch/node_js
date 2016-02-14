@@ -21,7 +21,7 @@ console.log("Chetan's life: " + Chetan.life)
 console.log("Logging Name:" + test.name);
 console.log("Logging life:" + test.life);
 
-
+console.log("Building Express Server");
 var express = require('express');
 var app = express();
 
